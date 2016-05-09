@@ -1,0 +1,25 @@
+what is the use of framework in automation testing?
+The main advantage of a framework is to provide support for automated software testing and reduces cost for maintenance. 
+If there is change to any test case then only the test case file needs to be updated and the driver Script and startup script will remain the same. Ideally, there is no need to update the scripts in case of changes to the application.
+Choosing the right framework/scripting technique helps in maintaining lower costs.
+Advantage of Test Automation framework
+1.	Reusability of code
+2.	Maximum coverage
+3.	Recovery scenario
+4.	Low cost maintenance
+5.	Minimal manual intervention
+6.	Easy Reporting
+Most popularly used Test Automation Frameworks:
+1.	Module Based Testing Framework
+2.	Library Architecture Testing Framework
+3.	Data Driven Testing Framework
+4.	Keyword Driven Testing Framework
+5.	Hybrid Testing Framework
+6.	Behavior Driven Development Framework
+what are things u consider/keep in framework?
+1.	Test Script modularity: It encourages testers to write code in an object-oriented manner. This allows reusable code to be incorporated throughout any given test. It can also assist in set-up tasks, such as preparing an environment or creating or refreshing database tables.
+2.	Data-driven or keyword-driven testing: As a good measure of verification, we can use Microsoft Excel spreadsheets or database queries to gather information to be tested. We can also leverage this to include database verification after a task has been completed.
+3.	Environment to support the test framework: 
+4.	Maintenance friendly:
+5.	The right tools:
+
